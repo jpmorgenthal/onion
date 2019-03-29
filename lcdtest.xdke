@@ -1,0 +1,98 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "i2c.js": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "i2c.js"
+      },
+      "icon.png": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "lcdtest.xdk": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "lcdtest.xdk"
+      },
+      "lcdtest.xdke": {
+        "previousModTime": 1507264417000,
+        "modified": 1507264417000,
+        "seen": true,
+        "name": "lcdtest.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1507251511000,
+        "modified": 1507251511000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1507264437016
+      },
+      "README.md": {
+        "previousModTime": 1507264437016
+      },
+      "i2c.js": {
+        "previousModTime": 1507264437016
+      },
+      "icon.png": {
+        "previousModTime": 1507264437016
+      },
+      "main.js": {
+        "previousModTime": 1507264437016
+      },
+      "package.json": {
+        "previousModTime": 1507264437016
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1507264437016
+      }
+    }
+  }
+}
